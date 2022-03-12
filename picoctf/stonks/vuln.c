@@ -64,7 +64,6 @@ int buy_stonks(Portfolio *p) {
 		return 1;
 	}
 	char api_buf[FLAG_BUFFER];
-    printf("api_buf address: %p\n", api_buf);
 	FILE *f = fopen("api","r");
 	if (!f) {
 		printf("Flag file not found. Contact an admin.\n");
