@@ -1,5 +1,5 @@
 # Wave a flag
-Category: General Skill, 10 points
+Category: General Skills, 10 points
 
 ## Description
 > Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...

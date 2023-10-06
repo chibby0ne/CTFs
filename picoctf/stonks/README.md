@@ -1,5 +1,5 @@
 # Stonks
-Category: Binary exploitation, 20 points
+Category: Binary Exploitation, 20 points
 
 ## Description
 
